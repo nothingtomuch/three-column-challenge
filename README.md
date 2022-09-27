@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/nothingtomuch/three-column-challenge)
-- Live Site URL: [Add live site URL here](https://nothingtomuch.github.io/three-column-challenge)
+- Solution URL: [My solution](https://github.com/nothingtomuch/three-column-challenge)
+- Live Site URL: [Live site url](https://nothingtomuch.github.io/three-column-challenge)
 
 ## My process
 
