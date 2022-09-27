@@ -50,5 +50,5 @@ Users should be able to:
 ## Author
 
 - Website - [Harjith](https://nothingtomuch.github.io)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/nothingtomuch)
+- Frontend Mentor - [@nothingtomuch](https://www.frontendmentor.io/profile/nothingtomuch)
 
